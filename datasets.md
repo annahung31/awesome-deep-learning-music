@@ -16,6 +16,7 @@ Please refer to the list of useful acronyms used in deep learning and music: [ac
 - [C4S](http://mmc.tudelft.nl/users/alessio-bazzica#C4S-dataset)
 - [CCMixter](https://members.loria.fr/ALiutkus/kam/)
 - [DSD100](http://sisec17.audiolabs-erlangen.de/#/dataset)
+- [DALI](https://github.com/gabolsgabs/DALI)
 - [Echo Nest Taste Profile Subset](https://labrosa.ee.columbia.edu/millionsong/tasteprofile)
 - [Free music archive](http://freemusicarchive.org/)
 - [GTzan](http://marsyas.info/downloads/datasets.html)
@@ -50,3 +51,4 @@ Please refer to the list of useful acronyms used in deep learning and music: [ac
 - [UIOWA MIS](http://theremin.music.uiowa.edu/mis.html)
 - [US Pop](https://labrosa.ee.columbia.edu/projects/musicsim/uspop2002.html)
 - [iKala](http://mac.citi.sinica.edu.tw/ikala/)
+
